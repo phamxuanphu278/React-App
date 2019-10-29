@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.e3a4a70f.chunk.css",
+    "main.js": "/React-App/static/js/main.a8d163f1.chunk.js",
+    "main.js.map": "/React-App/static/js/main.a8d163f1.chunk.js.map",
+    "runtime-main.js": "/React-App/static/js/runtime-main.7e86fca3.js",
+    "runtime-main.js.map": "/React-App/static/js/runtime-main.7e86fca3.js.map",
+    "static/css/2.5569f3eb.chunk.css": "/React-App/static/css/2.5569f3eb.chunk.css",
+    "static/js/2.6d59d889.chunk.js": "/React-App/static/js/2.6d59d889.chunk.js",
+    "static/js/2.6d59d889.chunk.js.map": "/React-App/static/js/2.6d59d889.chunk.js.map",
+    "index.html": "/React-App/index.html",
+    "precache-manifest.53f840f8656be073c6eae41caf788123.js": "/React-App/precache-manifest.53f840f8656be073c6eae41caf788123.js",
+    "service-worker.js": "/React-App/service-worker.js",
+    "static/css/2.5569f3eb.chunk.css.map": "/React-App/static/css/2.5569f3eb.chunk.css.map",
+    "static/css/main.e3a4a70f.chunk.css.map": "/React-App/static/css/main.e3a4a70f.chunk.css.map",
+    "static/media/font-awesome.min.css": "/React-App/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/giay1.png": "/React-App/static/media/giay1.e6d7e6f1.png",
+    "static/media/giay11.jpg": "/React-App/static/media/giay11.514e042d.jpg",
+    "static/media/giay12.jpg": "/React-App/static/media/giay12.7aa1f1a0.jpg",
+    "static/media/giay13.jpg": "/React-App/static/media/giay13.ac9b0af6.jpg",
+    "static/media/giay2.jpg": "/React-App/static/media/giay2.b98711e3.jpg",
+    "static/media/giay3.jpg": "/React-App/static/media/giay3.16652128.jpg",
+    "static/media/giay4.jpg": "/React-App/static/media/giay4.6b01625d.jpg",
+    "static/media/giay5.jpg": "/React-App/static/media/giay5.35b003f4.jpg",
+    "static/media/logo.png": "/React-App/static/media/logo.b66a694a.png",
+    "static/media/logo1.png": "/React-App/static/media/logo1.42c5afc2.png",
+    "static/media/master.png": "/React-App/static/media/master.56b78e07.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e86fca3.js",
+    "static/css/2.5569f3eb.chunk.css",
+    "static/js/2.6d59d889.chunk.js",
+    "static/css/main.e3a4a70f.chunk.css",
+    "static/js/main.a8d163f1.chunk.js"
+  ]
+}
